@@ -1,24 +1,8 @@
 # arduinoprojects
 My experiments, designs of Arduino code and systems.  Mostly measurement, data logging  and control
 
-MIT License
-
-Copyright (c) [2020] [David A G Redpath]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+I use the Arduino 2560 rev 3.
+Over the past number of years I've come across so many codes that are designed for the Arduino Uno 
+which require slight modifications for use with the Arduino Mega any code that has been uploaded by me
+has been tested on my own official Arduino Mega 2560 R3 
+Good luck with your own experiments and comments feedback are welcomed.
